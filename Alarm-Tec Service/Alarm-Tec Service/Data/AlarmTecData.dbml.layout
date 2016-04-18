@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AlarmTecData">
+  <DataContextMoniker Name="/AlarmTecDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5ad3cd06-d072-4b4a-bb80-12bade4e3ac9" absoluteBounds="4.375, 3.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AlarmTecDataDataContext/AlarmTec_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c43d566-58f4-4ef5-9e68-328389e5d5be" absoluteBounds="4.39, 4.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cd55a007-5363-4658-83be-82dc23d9d51c" absoluteBounds="7.25, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/AlarmTecDataDataContext/AlarmTec_Alarm" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7af466c-3b31-4a47-85b9-f9a2d88d20d5" absoluteBounds="7.265, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

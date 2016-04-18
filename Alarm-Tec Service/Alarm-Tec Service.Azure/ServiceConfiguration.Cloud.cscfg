@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="Alarm_Tec_Service.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="Alarm-Tec Service">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=reloxservice;AccountKey=dwn7aAUfAZAenQkIDBHR+r7b9+DXwRC+rwmFTCL93CA3KJSjr+BtCcKdsRYExOn/qZCIB2TI19cEf0HZ9li6YQ==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>
